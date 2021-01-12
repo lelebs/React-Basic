@@ -1,1 +1,1 @@
-Simple react application with routes, heact hooks and authentication
+Simple react application with routes, react hooks and authentication
